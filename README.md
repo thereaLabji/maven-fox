@@ -1,2 +1,2 @@
 # maven-fox
-Maven Repository for my java &amp; gradle apps
+An maven repository for my Gradle Builds. I'll include some for build.
